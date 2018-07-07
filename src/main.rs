@@ -81,6 +81,6 @@ fn digit_to_word(number: usize) -> String {
 }
 
 fn main() {
-    let digit_to_word = digit_to_word(7564234234324232342);
+    let digit_to_word = digit_to_word(12345);
     println!("{}", digit_to_word);
 }
